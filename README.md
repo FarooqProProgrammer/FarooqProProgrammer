@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Farooq</h1>
 <h3 align="center">A passionate in learning Mern Stack from Pakistan</h3>
 
-- 🔭 I’m currently working on [Adds Website](https://github.com/FarooqProProgrammer/Adds-Website-with-firebase)
+- 🔭 I’m currently working on Project Management CRM
 
 - 🌱 I’m currently learning **Django python**
 
