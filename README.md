@@ -48,6 +48,7 @@ I build clean, scalable web experiences using the MERN stack. I turn pixel-perfe
   * [https://bimitry.com/](https://bimitry.com/)
   * [https://rapidpayments.io/](https://rapidpayments.io/)
 * **Beauty Product**: [https://klenzera.com/](https://klenzera.com/)
+* **Industry Contractor**: [https://contractors4industry.co.uk/](https://contractors4industry.co.uk/)
 * LinkedIn: [https://www.linkedin.com/in/farooq-ayub-9177b7242](https://www.linkedin.com/in/farooq-ayub-9177b7242).
 
 
