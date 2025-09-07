@@ -1,6 +1,6 @@
 # MUHAMMAD FAROOQ — MERN Stack Developer
 
-> Full-stack MERN developer with 2+ years building responsive, production-ready web apps. Strong at converting Figma designs into maintainable Next.js/React code, designing frontend architecture, and integrating backend services. (Source: resume).
+> Full-stack MERN developer with 2+ years building responsive, production-ready web apps. Strong at converting Figma designs into maintainable Next.js/React code, designing frontend architecture, and integrating backend services.
 
 ---
 
@@ -62,7 +62,9 @@ I build clean, scalable web experiences using the MERN stack. I turn pixel-perfe
 
 ## ✉️ Contact
 
-* **Email:** [farooqayub646@gmail.com](mailto:farooqayub646@gmail.com)
-* **Phone:** +92 309 0450173
+* **Email:** [farooqayub646@gmail.com](mailto:farooqayub646@gmail.com)  
+* **Phone:** +92 309 0450173 — Call / WhatsApp  
+* **Phone:** +92 346 3634759 — Call / WhatsApp  
 * **Location:** Karachi, Pakistan.
+
 
