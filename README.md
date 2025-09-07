@@ -1,18 +1,93 @@
-<h1 align="center">Hi 👋, I'm Muhammad Farooq</h1>
-<h3 align="center">A passionate in learning Mern Stack from Pakistan</h3>
+# MUHAMMAD FAROOQ — MERN Stack Developer
 
-- 🔭 I’m currently working on Project Management CRM
+> Full-stack MERN developer with 2+ years building responsive, production-ready web apps. Strong at converting Figma designs into maintainable Next.js/React code, designing frontend architecture, and integrating backend services. (Source: resume).&#x20;
 
-- 🌱 I’m currently learning **Django python**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/FarooqProProgrammer](https://github.com/FarooqProProgrammer)
+## 👋 About Me
 
-- 📫 How to reach me **farooqayub646@gmail.com**
+I build clean, scalable web experiences using the MERN stack. I turn pixel-perfect Figma designs into production-ready sites, structure projects for long-term maintainability, and ship performant frontends with Bootstrap / TailwindCSS and custom CSS.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🧰 Tech Stack (highlights)
 
+* **Frontend:** React, Next.js, HTML, CSS, TailwindCSS, Bootstrap
+* **Backend / Fullstack:** Node.js, Express, MongoDB, (Postgres experience)
+* **Other:** JavaScript (ES6+), Python, Git, Figma → frontend workflows
+* **Soft skills:** Observation • Decision making • Communication • Multi-tasking
+
+---
+
+## 💼 Experience (selected)
+
+### Fortify — Trainee (May 5, 2023 – Aug 5, 2023)
+
+* Learned React and theme setup; built portfolio site and best-practice project folder structure.&#x20;
+
+### Jumppace — Frontend (Jun 24, 2024 – Present)
+
+* Transform brilliant Figma designs to web.
+* Maintain scalable frontend architecture and folder structure.
+* Use Next.js, Bootstrap, TailwindCSS, and efficient custom CSS.&#x20;
+
+---
+
+## 🎓 Education & Training
+
+* **University of Karachi** — Graduated (2021 – 2024).&#x20;
+* **Punjab Group of Colleges** (2018 – 2020).&#x20;
+* **Sylani Mass & IT Training Center** — Web & Mobile App Development (MERN course).&#x20;
+
+---
+
+## 🚀 Projects & Portfolio
+
+* **Brand websites**
+
+  * [https://thecomcube.com/](https://thecomcube.com/)
+  * [https://bimitry.com/](https://bimitry.com/)
+* **Beauty Product**: [https://klenzera.com/](https://klenzera.com/)
+* **Portfolio**: [https://idyllic-sorbet-27216b.netlify.app/](https://idyllic-sorbet-27216b.netlify.app/)
+* LinkedIn: [https://www.linkedin.com/in/farooq-ayub-9177b7242](https://www.linkedin.com/in/farooq-ayub-9177b7242).&#x20;
+
+---
+
+## 🏆 Achievements
+
+* Completed MERN stack training and a Fortify traineeship.
+* Delivered multiple production sites from Figma designs to live deployments.&#x20;
+
+---
+
+## ✉️ Contact
+
+* **Email:** [farooqayub646@gmail.com](mailto:farooqayub646@gmail.com)
+* **Phone:** +92 309 0450173
+* **Location:** Karachi, Pakistan.&#x20;
+
+---
+
+## 📄 How to use this README
+
+* Copy this `README.md` to your GitHub profile repo to present your professional snapshot.
+* Add repository-specific details (live demo link, tech & setup instructions) under each project for visitors to run your code locally.
+
+---
+
+## ⚡ Quick README snippet (copy into your repo)
+
+```markdown
+# MUHAMMAD FAROOQ — MERN Stack Developer
+Full-stack MERN developer | React · Next.js · Node · MongoDB · TailwindCSS  
+Portfolio: https://idyllic-sorbet-27216b.netlify.app/ · Email: farooqayub646@gmail.com
+```
+
+---
+
+If you'd like, I can:
+
+* convert this into a one-page HTML/CSS profile (Tailwind) for GitHub Pages, or
+* generate a printable PDF resume using this content.
+
+Which one should I make next?
