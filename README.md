@@ -1,6 +1,6 @@
 # MUHAMMAD FAROOQ — MERN Stack Developer
 
-> Full-stack MERN developer with 2+ years building responsive, production-ready web apps. Strong at converting Figma designs into maintainable Next.js/React code, designing frontend architecture, and integrating backend services. (Source: resume).&#x20;
+> Full-stack MERN developer with 2+ years building responsive, production-ready web apps. Strong at converting Figma designs into maintainable Next.js/React code, designing frontend architecture, and integrating backend services. (Source: resume).
 
 ---
 
@@ -23,21 +23,21 @@ I build clean, scalable web experiences using the MERN stack. I turn pixel-perfe
 
 ### Fortify — Trainee (May 5, 2023 – Aug 5, 2023)
 
-* Learned React and theme setup; built portfolio site and best-practice project folder structure.&#x20;
+* Learned React and theme setup; built portfolio site and best-practice project folder structure.
 
 ### Jumppace — Frontend (Jun 24, 2024 – Present)
 
 * Transform brilliant Figma designs to web.
 * Maintain scalable frontend architecture and folder structure.
-* Use Next.js, Bootstrap, TailwindCSS, and efficient custom CSS.&#x20;
+* Use Next.js, Bootstrap, TailwindCSS, and efficient custom CSS.
 
 ---
 
 ## 🎓 Education & Training
 
-* **University of Karachi** — Graduated (2021 – 2024).&#x20;
-* **Punjab Group of Colleges** (2018 – 2020).&#x20;
-* **Sylani Mass & IT Training Center** — Web & Mobile App Development (MERN course).&#x20;
+* **University of Karachi** — Graduated (2021 – 2024).
+* **Punjab Group of Colleges** (2018 – 2020).
+* **Sylani Mass & IT Training Center** — Web & Mobile App Development (MERN course).
 
 ---
 
@@ -49,14 +49,52 @@ I build clean, scalable web experiences using the MERN stack. I turn pixel-perfe
   * [https://bimitry.com/](https://bimitry.com/)
 * **Beauty Product**: [https://klenzera.com/](https://klenzera.com/)
 * **Portfolio**: [https://idyllic-sorbet-27216b.netlify.app/](https://idyllic-sorbet-27216b.netlify.app/)
-* LinkedIn: [https://www.linkedin.com/in/farooq-ayub-9177b7242](https://www.linkedin.com/in/farooq-ayub-9177b7242).&#x20;
+* LinkedIn: [https://www.linkedin.com/in/farooq-ayub-9177b7242](https://www.linkedin.com/in/farooq-ayub-9177b7242).
+
+---
+
+## 📁 Portfolio (selected work)
+
+A curated selection of projects showing design-to-code conversion, responsive layouts, and production deployments. Each entry includes a short description, core technologies, and a live demo link.
+
+### TheComCube — Brand site
+
+**What:** Marketing / brand website — landing, services, contact.
+**Role & highlights:** Frontend development, responsive layout, optimized assets.
+**Tech:** Next.js / React, TailwindCSS, custom CSS.
+**Live:** [https://thecomcube.com/](https://thecomcube.com/)
+**Repo:** *(add repo link if available)*
+
+### Bimitry — Brand / Catalogue
+
+**What:** Brand/catalogue website with product showcases and CMS-powered sections.
+**Role & highlights:** Built reusable components, responsive grids, and forms.
+**Tech:** Next.js, TailwindCSS, component-driven architecture.
+**Live:** [https://bimitry.com/](https://bimitry.com/)
+**Repo:** *(add repo link if available)*
+
+### Klenzera — Beauty product site
+
+**What:** Product landing and e-commerce focused pages — product detail, reviews, contact.
+**Role & highlights:** Pixel-perfect conversion from Figma, fast loading, accessible UI.
+**Tech:** React / Next.js, Bootstrap & Tailwind utilities.
+**Live:** [https://klenzera.com/](https://klenzera.com/)
+**Repo:** *(add repo link if available)*
+
+### Personal Portfolio
+
+**What:** My personal portfolio showcasing projects, case studies and contact info.
+**Role & highlights:** Designed & implemented portfolio layout, project pages, and deployment.
+**Tech:** React, TailwindCSS, Netlify (deployed).
+**Live:** [https://idyllic-sorbet-27216b.netlify.app/](https://idyllic-sorbet-27216b.netlify.app/)
+**Repo:** *(add repo link if available)*
 
 ---
 
 ## 🏆 Achievements
 
 * Completed MERN stack training and a Fortify traineeship.
-* Delivered multiple production sites from Figma designs to live deployments.&#x20;
+* Delivered multiple production sites from Figma designs to live deployments.
 
 ---
 
@@ -64,30 +102,5 @@ I build clean, scalable web experiences using the MERN stack. I turn pixel-perfe
 
 * **Email:** [farooqayub646@gmail.com](mailto:farooqayub646@gmail.com)
 * **Phone:** +92 309 0450173
-* **Location:** Karachi, Pakistan.&#x20;
+* **Location:** Karachi, Pakistan.
 
----
-
-## 📄 How to use this README
-
-* Copy this `README.md` to your GitHub profile repo to present your professional snapshot.
-* Add repository-specific details (live demo link, tech & setup instructions) under each project for visitors to run your code locally.
-
----
-
-## ⚡ Quick README snippet (copy into your repo)
-
-```markdown
-# MUHAMMAD FAROOQ — MERN Stack Developer
-Full-stack MERN developer | React · Next.js · Node · MongoDB · TailwindCSS  
-Portfolio: https://idyllic-sorbet-27216b.netlify.app/ · Email: farooqayub646@gmail.com
-```
-
----
-
-If you'd like, I can:
-
-* convert this into a one-page HTML/CSS profile (Tailwind) for GitHub Pages, or
-* generate a printable PDF resume using this content.
-
-Which one should I make next?
