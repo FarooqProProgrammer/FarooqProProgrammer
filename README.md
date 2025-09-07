@@ -44,52 +44,13 @@ I build clean, scalable web experiences using the MERN stack. I turn pixel-perfe
 ## 🚀 Projects & Portfolio
 
 * **Brand websites**
-
   * [https://thecomcube.com/](https://thecomcube.com/)
   * [https://bimitry.com/](https://bimitry.com/)
+  * [https://rapidpayments.io/](https://rapidpayments.io/)
 * **Beauty Product**: [https://klenzera.com/](https://klenzera.com/)
-* **Portfolio**: [https://idyllic-sorbet-27216b.netlify.app/](https://idyllic-sorbet-27216b.netlify.app/)
 * LinkedIn: [https://www.linkedin.com/in/farooq-ayub-9177b7242](https://www.linkedin.com/in/farooq-ayub-9177b7242).
 
----
 
-## 📁 Portfolio (selected work)
-
-A curated selection of projects showing design-to-code conversion, responsive layouts, and production deployments. Each entry includes a short description, core technologies, and a live demo link.
-
-### TheComCube — Brand site
-
-**What:** Marketing / brand website — landing, services, contact.
-**Role & highlights:** Frontend development, responsive layout, optimized assets.
-**Tech:** Next.js / React, TailwindCSS, custom CSS.
-**Live:** [https://thecomcube.com/](https://thecomcube.com/)
-**Repo:** *(add repo link if available)*
-
-### Bimitry — Brand / Catalogue
-
-**What:** Brand/catalogue website with product showcases and CMS-powered sections.
-**Role & highlights:** Built reusable components, responsive grids, and forms.
-**Tech:** Next.js, TailwindCSS, component-driven architecture.
-**Live:** [https://bimitry.com/](https://bimitry.com/)
-**Repo:** *(add repo link if available)*
-
-### Klenzera — Beauty product site
-
-**What:** Product landing and e-commerce focused pages — product detail, reviews, contact.
-**Role & highlights:** Pixel-perfect conversion from Figma, fast loading, accessible UI.
-**Tech:** React / Next.js, Bootstrap & Tailwind utilities.
-**Live:** [https://klenzera.com/](https://klenzera.com/)
-**Repo:** *(add repo link if available)*
-
-### Personal Portfolio
-
-**What:** My personal portfolio showcasing projects, case studies and contact info.
-**Role & highlights:** Designed & implemented portfolio layout, project pages, and deployment.
-**Tech:** React, TailwindCSS, Netlify (deployed).
-**Live:** [https://idyllic-sorbet-27216b.netlify.app/](https://idyllic-sorbet-27216b.netlify.app/)
-**Repo:** *(add repo link if available)*
-
----
 
 ## 🏆 Achievements
 
